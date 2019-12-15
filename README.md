@@ -1,5 +1,4 @@
-# Mission 13. 2019 Jeju BigData Competition - 퇴근시간 버스승차인원예측
-
+# Mission 13. 2019 Jeju BigData Competition
 https://dacon.io/cpt13/228543
 
 ![rank](./image/rank.png)
