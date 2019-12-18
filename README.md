@@ -5,7 +5,7 @@ https://dacon.io/cpt13/228543
 
 총 264팀 중 6등을 하였으며, 3명의 팀원으로 구성되어 대회에 참가하였습니다.
 
-처음으로 상금이 걸려있는 Machince Learning Competition이며, 팀으로도 처음 참가한 대회입니다.
+처음으로 상금이 걸려있는 Machine Learning Competition이며, 팀으로도 처음 참가한 대회입니다.
 
 학과에서 뜻이 맞는 학우들과 함께 약 한달간 집중하여 대회에 임하였습니다. 
 
